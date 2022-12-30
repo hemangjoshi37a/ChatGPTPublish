@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="popup.js" nonce="randomstring" content_security_policy="script-src 'unsafe-inline';"></script>
+    <title>ChatGPTPublish</title>
+  </head>
+  <body>
+    <!-- Add an iframe element to display the GitHub login page -->
+    <iframe id="login-iframe" src="https://github.com/login"></iframe>
+    <!-- Add the "Login with GitHub" button -->
+    <button id="login-button">Login with GitHub</button>
+    <div id="repository-list"></div>
+    <button id="publish-button">Publish</button>
+  </body>
+</html>
+
