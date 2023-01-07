@@ -1,4 +1,6 @@
-# ChatGPTPublish
+# ChatGPTPublish (Beta)
+
+alternatively manually doing this process : https://github.com/hemangjoshi37a/my_chat_with_chatGPT
 
 A Chrome extension that allows users to publish their chat with ChatGPT to code sharing websites.
 
